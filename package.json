@@ -1,0 +1,25 @@
+{
+  "name": "chalk-animation-ora-example",
+  "version": "1.0.0",
+  "description": "Chalk Animation + Ora example.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chalk-animation",
+    "ora"
+  ],
+  "author": "Saran Tanpituckpong <sarunta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk-animation": "^1.3.0",
+    "ora": "^1.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-gluons": "^2.1.0"
+  }
+}
