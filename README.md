@@ -12,3 +12,7 @@ npm install
 # run
 npm start
 ```
+
+## 😎
+
+![Screenshot](./images/Screenshot.gif)
