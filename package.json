@@ -13,7 +13,7 @@
     "ora"
   ],
   "author": "Saran Tanpituckpong <sarunta@gmail.com>",
-  "license": "MIT",
+  "license": "Unlicense",
   "dependencies": {
     "chalk-animation": "^1.3.0",
     "ora": "^1.3.0"
